@@ -9,5 +9,5 @@
     //define('THINK_PATH','./ThinkPHP_3.2/');
     require './ThinkPHP_3.2/ThinkPHP.php';  //引入核心文件 2016.07.23
     //测试git的使用 2016.07.23
-    
+    //test git two 2016.07.23
 ?>
