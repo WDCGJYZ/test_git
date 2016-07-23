@@ -7,6 +7,6 @@
     //define('BUILD_MODEL_LIST','User,Menu');
     define('APP_PATH','./admin/');
     //define('THINK_PATH','./ThinkPHP_3.2/');
-    require './ThinkPHP_3.2/ThinkPHP.php';
+    require './ThinkPHP_3.2/ThinkPHP.php';  //引入核心文件 2016.07.23
     
 ?>
